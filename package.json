@@ -58,7 +58,7 @@
   },
   "dependencies": {
     "@babel/polyfill": "*",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "babel-register": "^6.26.0",
     "prop-types": "^15.7.2",
     "react": "^16.8.6",
