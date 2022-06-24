@@ -24,7 +24,7 @@
     "file-loader": "*",
     "html-webpack-plugin": "*",
     "ignore-styles": "*",
-    "jsdom": "^15.1.1",
+    "jsdom": "^16.5.0",
     "mini-css-extract-plugin": "*",
     "mocha": "^6.1.4",
     "node-sass": "*",
